@@ -47,7 +47,7 @@ header > h1{
     font-family: var(--fontes-destaque);
     text-align: center;
     font-size: 2em;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     
 }
 header > p{
