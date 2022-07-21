@@ -120,11 +120,11 @@ main img.pequeno{
     display: block;
     margin: auto;
 }
-main h1{
+main article > h1{
     color: var(--cor5);
     font-family: var(--fontes-android);
 }
-main h2{
+main article > h2{
     font-family: var(--fontes-android);
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
